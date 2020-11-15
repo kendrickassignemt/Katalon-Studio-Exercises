@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify issue information displayed in UI against API</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcb41735-28ab-4684-b39f-541dce302bea</testCaseGuid>
+   <variable>
+      <defaultValue>'Ticket created at 1525625154785'</defaultValue>
+      <description></description>
+      <id>82317389-e050-4af6-a657-acefb80dc1a7</id>
+      <masked>false</masked>
+      <name>issue_summary</name>
+   </variable>
+</TestCaseEntity>
